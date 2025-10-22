@@ -23,7 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/heartistry-site",
+            "outputPath": "dist/Heartistry_site.com",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
